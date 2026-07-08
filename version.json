@@ -1,0 +1,13 @@
+{
+  "latestCode": 1,
+  "latestName": "1.0",
+  "minRequiredCode": 1,
+  "forceUpdate": false,
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.bbumbbai.app",
+  "releaseNotes": {
+    "ko": "최신 버전입니다.",
+    "en": "You are on the latest version.",
+    "zh": "您使用的是最新版本。",
+    "ja": "最新バージョンです。"
+  }
+}

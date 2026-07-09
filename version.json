@@ -1,13 +1,13 @@
 {
-  "latestCode": 1,
-  "latestName": "1.0",
-  "minRequiredCode": 1,
-  "forceUpdate": false,
+  "latestCode": 6,
+  "latestName": "1.1.3",
+  "minRequiredCode": 6,
+  "forceUpdate": true,
   "updateUrl": "https://play.google.com/store/apps/details?id=com.bbumbbai.app",
   "releaseNotes": {
-    "ko": "최신 버전입니다.",
-    "en": "You are on the latest version.",
-    "zh": "您使用的是最新版本。",
-    "ja": "最新バージョンです。"
+    "ko": "정산 계산 개선 및 안정성 향상을 위한 필수 업데이트입니다.",
+    "en": "Required update with settlement improvements and stability fixes.",
+    "zh": "包含结算改进和稳定性修复的必要更新。",
+    "ja": "精算の改善と安定性向上のための必須アップデートです。"
   }
 }
